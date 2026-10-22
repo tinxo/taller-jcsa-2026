@@ -12,8 +12,8 @@
   },
   "vars": {
     // Reemplazá TU-INSTANCIA por el dominio de tu app en Clerk (Frontend API URL)
-    "CLERK_ISSUER": "https://suitable-halibut-4341.clerk.accounts.dev",
-    "CLERK_JWKS_URL": "https://suitable-halibut-4341.clerk.accounts.dev/.well-known/jwks.json",
+    "CLERK_ISSUER": "https://guiding-redbird-725.clerk.accounts.dev",
+    "CLERK_JWKS_URL": "https://guiding-redbird-725.clerk.accounts.dev/.well-known/jwks.json",
     "MAIL_FROM": "onboarding@resend.dev"
   }
   // Secretos (no van acá): NEON_CONNECTION_STRING y RESEND_API_KEY

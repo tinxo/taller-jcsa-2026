@@ -8,7 +8,7 @@ export function Layout() {
   return (
     <div className="app">
       <header>
-        <Link to="/"><strong>Taller · Tareas</strong></Link>
+        <Link to="/"><strong>Taller JCSA · Tareas</strong></Link>
         <nav>
           <Link to="/tareas">Mis tareas</Link>
           <UserMenu />

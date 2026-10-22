@@ -227,6 +227,3 @@ y seguí el taller con la app local. Si la API local no arranca, comentá `VITE_
 - `MODO_LOCAL` existe solo en `.dev.vars`: en el Worker desplegado nunca se simula el login.
 - En el backend, CORS está abierto (`*`) y los errores internos devuelven su mensaje para facilitar el diagnóstico.
   En un proyecto real conviene limitar CORS al dominio de tu front y no exponer detalles de errores.
-
-## Contacto
-`[Completar: nombre y correo de contacto]`
